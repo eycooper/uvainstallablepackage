@@ -3,10 +3,10 @@
 from setuptools import setup, find_packages
 
 setup(name='shared',
-      version='1.0.1',
+      version='1.0.0',
       description='This package has shared components.',
-      author='Efrain Olivares',
-      author_email='efrain.olivares@gmail.com',
+      author='Emma Cooper',
+      author_email='eyc4xd@virginia.edu',
       packages=find_packages(exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
       license='LICENSE.txt',
     )
