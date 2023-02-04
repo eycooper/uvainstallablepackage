@@ -1,1 +1,1 @@
-pytest
+git+https://github.com/eycooper/uvainstallablepackage.git@v0.0.0
