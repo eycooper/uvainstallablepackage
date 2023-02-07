@@ -1,6 +1,10 @@
 import shared as sh
 sh.afunction()
 
+# another_functio() is a function I created
+sh.another_funtion()
+
+
 # test space compress function
 
 ## if it is passed word word word it should return word word word

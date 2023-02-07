@@ -23,3 +23,6 @@ def space_compress(stocomp):
 
 def new_func():
     pass
+
+def another_function():
+    print("This function was made in v0.0.1")
