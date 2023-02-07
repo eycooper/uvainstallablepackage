@@ -2,7 +2,7 @@ import shared as sh
 sh.afunction()
 
 # another_functio() is a function I created
-sh.another_funtion()
+sh.another_function()
 
 
 # test space compress function
