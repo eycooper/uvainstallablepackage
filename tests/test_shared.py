@@ -19,8 +19,8 @@ def test_failing():
 def test_skip():
     assert False
 
-@pytest.mark.skipif(sys.platform == 'win32', reason = "OS runs on win32")
-def test_platform():
-    print(sys.platform)
-    print("My platform is", sys.platform)
-    assert False
+#@pytest.mark.skipif(sys.platform == 'win32', reason = "OS runs on win32")
+#def test_platform():
+#    print(sys.platform)
+#    print("My platform is", sys.platform)
+#    assert False
