@@ -24,3 +24,6 @@ def test_skip():
 #    print(sys.platform)
 #    print("My platform is", sys.platform)
 #    assert False
+
+def test_circleci_change():
+    assert True, "Just a test to force a change"
